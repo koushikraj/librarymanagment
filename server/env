@@ -1,0 +1,4 @@
+PORT=5000
+DB_URL=mongodb+srv://admin:admin@cluster0.jakeu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+SECRET=mySECRET
+FRONTEND_URL=http://localhost:3000
